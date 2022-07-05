@@ -1,9 +1,9 @@
-![]
+![](https://github.com/LarissaCoop/PacMan-Assignment/blob/main/Larissa's-Amazing-Portfolio.jpg)
 - 👋 Hi, I’m @LarissaCoop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... creating a portfolio at MIT that I can turn into a viable business upon graduation. 
+- 🌱 I’m currently learning full stack development and cybersecurity at MITxPro
+- 💞️ I’m looking to collaborate on ... future projects.  I am all about working with team members. 
+- 📫 How to reach me ... I have a Twitter account @1LarissaCooper.
 
 <!---
 LarissaCoop/LarissaCoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
