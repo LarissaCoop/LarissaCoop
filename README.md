@@ -7,12 +7,12 @@ consulting on an outside vendor basis or to be a value-added equity partner.
 - 🌱 I’m currently learning full stack development and cybersecurity at MITxPro.    
 <br>
 - 📫 How to reach me:
-           LinkedIn: <a href="https://www.linkedin.com/in/larissa-cooper-9a8a5b248/">click here</a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/larissa-cooper-9a8a5b248/">click here</a>
            <br>
-           Twitter: @1LarissaCooper Twitter profile is at this <a href="https://twitter.com/1LarissaCooper/">link</a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twitter: @1LarissaCooper Twitter profile is at this <a href="https://twitter.com/1LarissaCooper/">link</a>
            <br>
-           Email me at LarissaCooper10@gmail.com or LCooper@CooperCyberConsulting.com. 
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email me at LarissaCooper10@gmail.com or LCooper@CooperCyberConsulting.com. 
            <br>
-           YouTube channel <a href="https://www.youtube.com/channel/UCg6yebUNNpHN4f-O5xAdnoQ">YouTube Link</a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YouTube channel <a href="https://www.youtube.com/channel/UCg6yebUNNpHN4f-O5xAdnoQ">YouTube Link</a>
 
 
