@@ -8,7 +8,7 @@ consulting on an outside vendor basis or to be a value-added equity partner.
 <br>
 - 📫 How to reach me:
 - <br>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/larissa-cooper-9a8a5b248/">click here</a>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/larissa-cooper1/">click here</a>
            <br>
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Twitter: @1LarissaCooper Twitter profile is at this <a href="https://twitter.com/1LarissaCooper/">link</a>
            <br>
