@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @LarissaCooper
 <br>
 - 👀 I’m interested in freelancing, collaboration, entrepreneurial endeavors, 
-consulting on an outside vendor basis or to be a value-added equity partner.
+consulting on an outside vendor basis or to be a value-added equity partner, real estate investing.
 <br>
 - 🌱 I’m currently learning full stack development and cybersecurity at MITxPro.    
 <br>
